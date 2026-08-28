@@ -7,10 +7,6 @@ const Projects = () => {
       <p className="prompt"> ls -la /projects</p>
       <div className="output projects-list">
         <p>
-          <span className="highlight">├── anime-tracker/</span> — приложение для
-          поиска и отслеживания аниме (React + Jikan API)
-        </p>
-        <p>
           <span className="highlight">├── terminal-resume/</span> — это моё
           резюме в стиле терминала (React + Framer Motion)
         </p>
